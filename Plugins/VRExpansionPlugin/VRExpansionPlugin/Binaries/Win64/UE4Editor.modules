@@ -2,6 +2,6 @@
 	"BuildId": "3709383",
 	"Modules": 
 	{
-		"VRExpansionPlugin": "UE4Editor-VRExpansionPlugin-8359.dll"
+		"VRExpansionPlugin": "UE4Editor-VRExpansionPlugin.dll"
 	}
 }
